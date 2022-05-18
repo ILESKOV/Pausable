@@ -14,4 +14,4 @@ Pausable Contract
   So when you have bug u need to be able to Pause this contact as the owner. All functionality will block.
   
   Then we have time to make all of these steps to make sure to implement a good solution, then we can unPAUSE and 
-  we ready to go!
+  we ready to GO!
