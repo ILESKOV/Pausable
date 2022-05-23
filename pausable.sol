@@ -27,7 +27,7 @@ contract Bank{
     _;
   }
   
-  function pause() public onlyOwner whenPaused{
+  function pause() public onlyOwner whenNotPaused{
     _paused = true;
   }
   
